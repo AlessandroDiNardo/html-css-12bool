@@ -1,0 +1,23 @@
+/* DEBUG */
+[class*="col"]{
+    background-color:#006cfa;
+    border: solid 1px white;
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.col-green{
+    padding: 15px;
+}
+
+.green{
+    background-color: #00e265;
+    border: 2px solid #006cfa;
+}
+
+.row-second{
+    margin-top: 20px;
+}
