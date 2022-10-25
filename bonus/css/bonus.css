@@ -1,0 +1,31 @@
+[class*="col"]{
+    min-height: 50px;
+    max-width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-color: #12a0d7;
+}
+
+.napoli{
+    background-color: #12a0d7;
+        /* DEBUG */
+    border: 1px solid #ffffff;
+}
+
+.white{
+    background-color: white;
+}
+
+.blue{
+    background-color: #003c82;
+        /* DEBUG */
+    border: 1px solid #ffffff;
+}
+
+h1{
+    text-align: center;
+}
