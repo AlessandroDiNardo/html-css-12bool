@@ -4,10 +4,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    opacity: 0.8;
 }
 
 body{
-    background-color: #12a0d7;
+   background-image: url("../img/napoli.jpg");
+   background-size: cover;
 }
 
 .napoli{
@@ -28,4 +30,10 @@ body{
 
 h1{
     text-align: center;
+    color: #12a0d7;
+}
+
+span{
+    color: #12a0d7;
+    font-size: 25px;
 }
